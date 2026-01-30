@@ -6,7 +6,7 @@ This repository reflects my transition from beginner to intermediate Python, str
 
 ---
 
-## 🧠 Skills & Concepts Practiced
+## Skills & Concepts Practiced
 
 * Functions and modular code design
 * Dictionaries, lists, sets, and tuples in real use cases
@@ -61,7 +61,7 @@ These projects are designed with **testing and maintainability** in mind, aligni
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Manual QA Tester with growing experience in **Python, SQL, and AWS**, aiming to transition into **SaaS-focused QA or junior backend roles**. Passionate about learning, clean code, and continuous improvement.
 
